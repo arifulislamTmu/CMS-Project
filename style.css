@@ -1,0 +1,287 @@
+.H-Small{
+    max-width: 50%;
+}
+.H-Medium{
+    max-width: 75%;
+}
+.H-Large{
+    max-width: 100%;
+}
+.image_section {
+    height: 88px;
+  }
+
+  .navbar_imag{
+    height: 80px;
+  }
+
+.Nav-Small{
+    max-width: 50%;
+}
+.Nav-Medium{
+    max-width: 75%;
+}
+.Nav-Large{
+    height: 83px;
+}
+/* slider oprion */
+.Slider-Small{
+    width: 100%;
+    height: 340px;
+}
+.Slider-Medium{
+    width: 100%;
+    height: 600px;
+}
+.Slider-Large {
+    width: 100%;
+    height: 700px;
+}   
+/* mainconetent              */
+
+.Img-Small{
+   max-width: 300px;
+}
+.Img-Medium{
+    max-width: 400px;
+ }
+ .Img-large{
+   max-width: 500px;
+  
+ }
+.Dark_blue{
+    background-color: #1e417e;
+}
+.X-large-Size{
+font-size: 50px;
+font-weight: 800;
+}
+.Small-Size{
+    font-size: 20px;
+    font-weight: 600;
+}
+.Medium-Size{
+    font-size: 30px;
+    font-weight: 700;
+}
+.Large-Size{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.Red{
+    color:red;
+}
+.White{
+    color:white;
+}
+.Gray{
+    color:gray;
+}
+.Green{
+color:green;
+}
+.Blue{
+    color:#1e417e;
+}
+.img_conte1{
+height: 200px;
+margin-left: 40px;
+}
+.M-Large{
+    width: 100%;
+}
+.image-3tbl.Small img{
+    width: 224px;
+    margin: 0 auto;
+    height: 180px;
+    display: block;
+    padding-top: 10px;
+    border-radius: 3px;
+}
+   
+.image-3tbl.Medium img{
+    width: 291px;
+    margin: 0 auto;
+    height: 250px;
+    display: block;
+    border-radius: 3px;
+    padding-top: 10px;
+    
+}
+
+.image-3tbl.Large img{
+    width: 100%;
+    margin: 0 auto;
+    height: 350px;
+    display: block;
+    border-radius: 25px; 
+    padding: 18px;
+    
+}
+.img_conten2.Small img{
+    width: 280px;
+    margin: 0 auto;
+    height: 200px;
+    display: block;
+    border-radius: 3px;
+    
+}
+.img_conten2.Medium img{
+    width: 350px;
+    margin: 0 auto;
+    height: 300px;
+    display: block;
+    border-radius: 3px;
+    padding: 10px;
+}
+.img_conten2.Large img{
+    width: 100%;
+    margin: 0 auto;
+    height: 400px;
+    display: block;
+    border-radius: 3px;
+    }
+
+.content_sec2.Small{
+    width: 280px;
+    margin: 0 auto;
+    display: block;
+  
+}
+.content_sec2.Medium{
+    width: 350px;
+    margin: 0 auto;
+    display: block;
+  
+}
+.content_sec2.Large{
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+   
+}
+.content_imgg.Small img{
+    height: 209px;
+    width: 318px;
+    border-radius: 9px;
+    padding: 5px;
+    
+}
+
+.content_imgg.Medium img{
+    height: 280px;
+    width: 400px;
+    border-radius: 9px;
+    padding: 5px;
+  }
+.content_imgg.Large img{
+    height: 361px;
+    width: 550px;
+    border-radius: 9px;
+    padding: 5px;
+    
+}
+.image-3tbl2.Small img{
+    width: 300px;
+    margin: 0 auto;
+    height: 180px;
+    display: block;
+    border-radius: 3px;
+    transition: 0.6s;
+    margin-top: 12px;
+}
+
+.image-3tbl2.Medium img {
+	width: 300px;
+	margin: 0 auto;
+	height: 250px;
+	display: block;
+	border-radius: 3px;
+	transition: 0.6s;
+	margin-top: 12px;
+}
+.image-3tbl2.Large img{
+    width: 100%;
+    margin: 0 auto;
+    height: 350px;
+    display: block;
+    border-radius: 3px;
+    transition: 0.6s;
+    margin-top: 12px;
+}
+
+.image-3tbl2.Large :hover{
+    transform: scaleY(1.1);
+   
+}
+.image-3tbl2.Medium :hover{
+    transform: scaleY(1.1);
+   
+}
+.image-3tbl2.Small :hover{
+    transform: scaleY(1.1);
+   
+}
+
+.content_main.Small{
+    width: 250px;
+    margin: 0 auto;
+    display: block;
+ 
+}
+.content_main.Large{
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+
+}
+.content_main.Medium{
+    width: 320px;
+    margin: 0 auto;
+    display: block;
+   
+   
+}
+
+.image_4.Small img{
+    width: 85%;
+    margin: 0 auto;
+    height: 169px;
+    display: block;
+    border-radius: 3px;
+}
+.image_4.Medium img{
+    width: 97%;
+    margin: 0 auto;
+    height: 206px;
+    display: block;
+    border-radius: 3px;
+   
+}
+
+.image_4.Large img{
+    width: 100%;
+    margin: 0 auto;
+    height: 220px;
+    display: block;
+    border-radius: 3px;
+   }
+.content_text.Medium{
+    width: 92%;
+    margin: 0 auto;
+    display: block;
+    
+}
+.content_text.Large{
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+    
+}
+.content_text.Small{
+    width: 92%;
+    margin: 0 auto;
+    display: block;
+    
+}
